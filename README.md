@@ -4,7 +4,7 @@
 This project aims to develop a predictive model to identify bankruptcy events within financial datasets. The goal is to build a machine learning model that can accurately classify clients as either bankrupt or non-bankrupt based on their financial attributes and indicators.
 
 ## Dataset
-The dataset used for this project contains historical financial data for various credit applicants, including features such as vintage year, monthly installment, loan balance, and bureau score. The dataset is available in the file `Default_Data.csv`.
+The dataset used for this project contains historical financial data for various credit applicants, including features such as vintage year, monthly installment, loan balance, and bureau score. The dataset is available in the file `Default_Data.xslx`.
 
 ## Methodology
 The project follows the following methodology:
